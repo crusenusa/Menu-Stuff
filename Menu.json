@@ -1,0 +1,239 @@
+[
+    {
+        "food": "Chicken Pot Pie",
+        "day": "Monday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Vegetable & Dumplings",
+        "day": "Monday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Sweet Potato Biscuit Crust",
+        "day": "Monday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Multi-color Quinoa & Watercress",
+        "day": "Monday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Beets",
+        "day": "Monday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Potato Cakes",
+        "day": "Monday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Yellowfin Tuna & Avocado toast",
+        "day": "Tuesday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Crabmeat Deviled Eggs",
+        "day": "Tuesday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Turmeric Potatoes",
+        "day": "Tuesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Green Salad w/ Sumac, Red Onion",
+        "day": "Tuesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "French Beans",
+        "day": "Tuesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Bourbon Caramel Flan",
+        "day": "Tuesday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Carnaroli Rice",
+        "day": "Wednesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Early Fava & Cranberry Beans",
+        "day": "Wednesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Roasted Carrots, Coriander & Garlic",
+        "day": "Wednesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Pressed BBQ Steak Sandwich",
+        "day": "Wednesday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Brussel Sprouts",
+        "day": "Wednesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Leaves",
+        "day": "Wednesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Spiced Pickles",
+        "day": "Wednesday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Mac N Cheese",
+        "day": "Thursday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Pastrami",
+        "day": "Thursday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Gruyere Cheese",
+        "day": "Thursday",
+        "gf": true,
+        "df": false,
+        "v": false
+    },
+    {
+        "food": "Crazy Kraut",
+        "day": "Thursday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Island Dressing",
+        "day": "Thursday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Caraway & Pomegranate Vegetables",
+        "day": "Thursday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Cool Ranch Chips",
+        "day": "Thursday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Roast Free Range Chicken",
+        "day": "Friday",
+        "gf": true,
+        "df": true,
+        "v": false
+    },
+    {
+        "food": "Rhubarb Pizza with Ginger Sour Cream",
+        "day": "Friday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Shropshire Blue Cheese",
+        "day": "Friday",
+        "gf": true,
+        "df": false,
+        "v": false
+    },
+    {
+        "food": "Avocado",
+        "day": "Friday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Mexican Mango",
+        "day": "Friday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Heirloom Tomatoes",
+        "day": "Friday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Sweet Potato & Vidalia onion",
+        "day": "Friday",
+        "gf": true,
+        "df": true,
+        "v": true
+    },
+    {
+        "food": "Greens",
+        "day": "Friday",
+        "gf": true,
+        "df": true,
+        "v": true
+]
